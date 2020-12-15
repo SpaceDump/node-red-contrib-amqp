@@ -27,7 +27,7 @@
     "url": "https://github.com/abreits/node-red-contrib-amqp"
   },
   "dependencies": {
-    "https://github.com/droidsolutions/amqp-ts": "^1.8.0",
+    "amqp-ts": "https://github.com/droidsolutions/amqp-ts",
     "getos": "^3.1.1"
   },
   "devDependencies": {
